@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "findata_stats", "findata_stats.pyproj", "{6C332B2A-2082-489E-B9B0-A0AAF995294D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C332B2A-2082-489E-B9B0-A0AAF995294D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C332B2A-2082-489E-B9B0-A0AAF995294D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8B0EF40-AE6F-4A75-B4DE-CB06FCACF659}
+	EndGlobalSection
+EndGlobal
